@@ -34,3 +34,6 @@ public class SubscribeMsg extends Message {
         return "SubscribeMsg [user=" + user + ", topic=" + topic + "]";
     }
 }
+
+%> git tag handinX
+%> git push origin handinX
